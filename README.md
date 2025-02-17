@@ -37,7 +37,4 @@ The Career Hub Portal Web Application is a platform built with Spring Boot 3, Sp
 ![Screenshot (156)](https://github.com/user-attachments/assets/2a774da5-a735-4774-97fe-f909bf449156)
 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Suraj9921/job-portal-web-app.git
+
