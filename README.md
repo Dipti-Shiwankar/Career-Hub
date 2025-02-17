@@ -1,7 +1,7 @@
-# Job Portal Web Application
+# Career Hub Portal Web Application
 
 ## Description
-The Job Portal Web Application is a platform built with Spring Boot 3, Spring MVC, Thymeleaf, and MySQL. It streamlines the recruitment process by allowing candidates to apply for jobs and enabling recruiters to view applications and download resumes. The application is designed to provide a seamless user experience with role-based access and secure handling of user data.
+The Career Hub Portal Web Application is a platform built with Spring Boot 3, Spring MVC, Thymeleaf, and MySQL. It streamlines the recruitment process by allowing candidates to apply for jobs and enabling recruiters to view applications and download resumes. The application is designed to provide a seamless user experience with role-based access and secure handling of user data.
 
 ## Key Technologies
 - **Spring Boot 3**
